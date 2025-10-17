@@ -1,0 +1,66 @@
+{
+  "run_id": "20251003_152744",
+  "outdir": "C:\\Users\\DELL\\Desktop\\customer_churn_analysis\\NOTEBOOK\\churn_outputs_20251003_152744",
+  "csv_path": "C:/Users/DELL/Desktop/customer_churn_analysis/DATA/telecom_customer_churn.csv",
+  "target_source": "derived_from_Customer Status",
+  "class_counts": {
+    "0": 5174,
+    "1": 1869
+  },
+  "best_model": "GBT",
+  "cv_table": [
+    {
+      "Model": "GBT",
+      "F1": 0.7050355244579561,
+      "F1_std": 0.018039985704407298
+    },
+    {
+      "Model": "SVC_rbf",
+      "F1": 0.6952424909558587,
+      "F1_std": 0.01532128191689605
+    },
+    {
+      "Model": "LogReg",
+      "F1": 0.6924908617875134,
+      "F1_std": 0.009464551363956294
+    },
+    {
+      "Model": "LinearSVC",
+      "F1": 0.6893605156190677,
+      "F1_std": 0.01046500917199552
+    },
+    {
+      "Model": "RF",
+      "F1": 0.6693219380014659,
+      "F1_std": 0.02276712688936763
+    },
+    {
+      "Model": "ExtraTrees",
+      "F1": 0.662653205784414,
+      "F1_std": 0.01861559046672991
+    },
+    {
+      "Model": "KNN",
+      "F1": 0.6340332465684082,
+      "F1_std": 0.020586766476375716
+    },
+    {
+      "Model": "DecisionTree",
+      "F1": 0.577338506615689,
+      "F1_std": 0.016415822841748532
+    }
+  ],
+  "train_shape": [
+    5634,
+    34
+  ],
+  "test_shape": [
+    1409,
+    34
+  ],
+  "dropped_leaky": [
+    "Customer Status",
+    "Churn Category",
+    "Churn Reason"
+  ]
+}

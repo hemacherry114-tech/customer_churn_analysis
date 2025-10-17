@@ -1,0 +1,64 @@
+Feature,Importance
+Contract_Month-to-Month,0.3572420708245409
+Number of Referrals,0.12582475744149835
+Monthly Charge,0.08255993485554289
+Age,0.08166287346079454
+Tenure in Months,0.07832697798024628
+Number of Dependents,0.062431364185319395
+City_San Diego,0.025386074500206485
+Payment Method_Credit Card,0.0241376220448393
+Internet Service_Yes,0.021968628279614225
+Total Revenue,0.021380571541531446
+Latitude,0.012980537480093866
+Total Charges,0.010589780288021893
+Longitude,0.009249099810617174
+Zip Code,0.00812206839103691
+Contract_Two Year,0.007345764112237948
+Total Long Distance Charges,0.007101235823433127
+Avg Monthly Long Distance Charges,0.005877083264903824
+Payment Method_Mailed Check,0.005547526081192487
+Internet Service_No,0.004804073241199223
+Paperless Billing_Yes,0.0046211141079340635
+Premium Tech Support_No,0.004410950992916387
+Online Security_No,0.004321346672936269
+Streaming Music_No,0.004008814447745619
+Streaming Movies_Yes,0.0036469902598459283
+Paperless Billing_No,0.002662222087756707
+Total Extra Data Charges,0.002185351377415544
+Streaming TV_Yes,0.0020166183729488103
+Total Refunds,0.0019749981173976857
+Married_Yes,0.0019156116666490801
+Contract_One Year,0.0016670483109331696
+Offer_Offer E,0.001629523846034241
+Avg Monthly GB Download,0.0013561088820486001
+Internet Type_Cable,0.0012792762734450801
+Married_No,0.0011284865164103983
+Online Security_Yes,0.0010806075859568574
+Streaming TV_No,0.0010520491910861107
+Streaming Movies_No,0.0010213874015594293
+Streaming Music_Yes,0.001019924582118278
+Premium Tech Support_Yes,0.0009582798545555523
+Unlimited Data_No,0.0006899181845093612
+City_infrequent_sklearn,0.0006890409326131514
+Gender_Female,0.00044555518392946485
+Multiple Lines_No,0.0004151614869930548
+Multiple Lines_Yes,0.000384168438813737
+Payment Method_Bank Withdrawal,0.0003637225441132181
+Phone Service_No,0.00031045098939013306
+Online Backup_No,0.00010993551545336557
+City_Sacramento,9.729256962054485e-05
+Offer_Offer D,0.0
+Offer_Offer A,0.0
+Offer_Offer B,0.0
+City_San Jose,0.0
+Gender_Male,0.0
+City_Los Angeles,0.0
+City_San Francisco,0.0
+Offer_Offer C,0.0
+Device Protection Plan_Yes,0.0
+Device Protection Plan_No,0.0
+Internet Type_Fiber Optic,0.0
+Internet Type_DSL,0.0
+Phone Service_Yes,0.0
+Online Backup_Yes,0.0
+Unlimited Data_Yes,0.0

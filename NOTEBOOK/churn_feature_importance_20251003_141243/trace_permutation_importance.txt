@@ -1,0 +1,21 @@
+Traceback (most recent call last):
+  File "C:\Users\DELL\AppData\Local\Temp\ipykernel_11720\812300469.py", line 174, in <module>
+    perm_imp = pd.DataFrame({
+               ~~~~~~~~~~~~^^
+        "Feature": feature_names,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^
+        "Importance": perm.importances_mean,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        "Importance_std": perm.importances_std
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    }).sort_values("Importance", ascending=False)
+    ^^
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\pandas\core\frame.py", line 778, in __init__
+    mgr = dict_to_mgr(data, index, columns, dtype=dtype, copy=copy, typ=manager)
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\pandas\core\internals\construction.py", line 503, in dict_to_mgr
+    return arrays_to_mgr(arrays, columns, index, dtype=dtype, typ=typ, consolidate=copy)
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\pandas\core\internals\construction.py", line 114, in arrays_to_mgr
+    index = _extract_index(arrays)
+  File "C:\Users\DELL\anaconda3\Lib\site-packages\pandas\core\internals\construction.py", line 677, in _extract_index
+    raise ValueError("All arrays must be of the same length")
+ValueError: All arrays must be of the same length

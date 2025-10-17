@@ -1,0 +1,34 @@
+{
+  "run_id": "20251003_155346",
+  "outdir": "C:\\Users\\DELL\\Desktop\\customer_churn_analysis\\NOTEBOOK\\churn_outputs_20251003_155346",
+  "csv_path": "C:/Users/DELL/Desktop/customer_churn_analysis/DATA/telecom_customer_churn.csv",
+  "target_source": "derived_from_Customer Status",
+  "class_counts": {
+    "0": 5174,
+    "1": 1869
+  },
+  "best_params": {
+    "clf__l2_regularization": 1.0,
+    "clf__learning_rate": 0.05,
+    "clf__max_depth": null,
+    "clf__max_leaf_nodes": 31,
+    "clf__min_samples_leaf": 50
+  },
+  "best_cv_score": 0.713659529966949,
+  "train_shape": [
+    5634,
+    33
+  ],
+  "test_shape": [
+    1409,
+    33
+  ],
+  "dropped_leaky": [
+    "Customer Status",
+    "Churn Category",
+    "Churn Reason"
+  ],
+  "dropped_hi_card": [
+    "City"
+  ]
+}

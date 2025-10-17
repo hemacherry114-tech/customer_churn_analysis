@@ -1,0 +1,36 @@
+Feature,Importance,Importance_std
+Customer Status,0.7453961456102784,0.01855556452324618
+Age,0.0,0.0
+Gender,0.0,0.0
+Married,0.0,0.0
+Number of Dependents,0.0,0.0
+Zip Code,0.0,0.0
+City,0.0,0.0
+Longitude,0.0,0.0
+Number of Referrals,0.0,0.0
+Tenure in Months,0.0,0.0
+Latitude,0.0,0.0
+Phone Service,0.0,0.0
+Avg Monthly Long Distance Charges,0.0,0.0
+Multiple Lines,0.0,0.0
+Internet Service,0.0,0.0
+Internet Type,0.0,0.0
+Avg Monthly GB Download,0.0,0.0
+Online Security,0.0,0.0
+Offer,0.0,0.0
+Online Backup,0.0,0.0
+Device Protection Plan,0.0,0.0
+Streaming TV,0.0,0.0
+Premium Tech Support,0.0,0.0
+Streaming Music,0.0,0.0
+Unlimited Data,0.0,0.0
+Contract,0.0,0.0
+Streaming Movies,0.0,0.0
+Paperless Billing,0.0,0.0
+Payment Method,0.0,0.0
+TotalCharges,0.0,0.0
+Monthly Charge,0.0,0.0
+Total Refunds,0.0,0.0
+Total Extra Data Charges,0.0,0.0
+Total Long Distance Charges,0.0,0.0
+AutoPay,0.0,0.0
